@@ -1,4 +1,4 @@
-resource "aws_instance" "ram-1" {
+resource "aws_instance" "anil" {
   ami           = "ami-0166fe664262f664c" # Replace with your AMI ID          
   instance_type = "t2.micro"
   key_name      = "anil"
